@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ang_apps/catalog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angapps/catalogo" vcs="Git" />
   </component>
 </project>
